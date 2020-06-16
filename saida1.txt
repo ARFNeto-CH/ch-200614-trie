@@ -1,0 +1,92 @@
+    ama
+insere('ama') len = 3
+Pos 0 Letra: 'a', Ref: 39
+Criando ponteiros a partir de 'a'
+Criados 65 ponteiros
+Criado node para 'a'
+Pos 1 Letra: 'm', Ref: 51
+Criando ponteiros a partir de 'm'
+Criados 65 ponteiros
+Criado node para 'm'
+Pos 2 Letra: 'a', Ref: 39
+Criando ponteiros a partir de 'a'
+Criados 65 ponteiros
+Criado node para 'a'
+        inseridos 3 de 3. Letra a Ocorrencias: 1
+insere retornou 0
+    amar
+insere('amar') len = 4
+Pos 0 Letra: 'a', Ref: 39
+Pos 1 Letra: 'm', Ref: 51
+Pos 2 Letra: 'a', Ref: 39
+Pos 3 Letra: 'r', Ref: 56
+Criando ponteiros a partir de 'r'
+Criados 65 ponteiros
+Criado node para 'r'
+        inseridos 4 de 4. Letra r Ocorrencias: 1
+insere retornou 0
+    amarela
+insere('amarela') len = 7
+Pos 0 Letra: 'a', Ref: 39
+Pos 1 Letra: 'm', Ref: 51
+Pos 2 Letra: 'a', Ref: 39
+Pos 3 Letra: 'r', Ref: 56
+Pos 4 Letra: 'e', Ref: 43
+Criando ponteiros a partir de 'e'
+Criados 65 ponteiros
+Criado node para 'e'
+Pos 5 Letra: 'l', Ref: 50
+Criando ponteiros a partir de 'l'
+Criados 65 ponteiros
+Criado node para 'l'
+Pos 6 Letra: 'a', Ref: 39
+Criando ponteiros a partir de 'a'
+Criados 65 ponteiros
+Criado node para 'a'
+        inseridos 7 de 7. Letra a Ocorrencias: 1
+insere retornou 0
+    amarelas
+insere('amarelas') len = 8
+Pos 0 Letra: 'a', Ref: 39
+Pos 1 Letra: 'm', Ref: 51
+Pos 2 Letra: 'a', Ref: 39
+Pos 3 Letra: 'r', Ref: 56
+Pos 4 Letra: 'e', Ref: 43
+Pos 5 Letra: 'l', Ref: 50
+Pos 6 Letra: 'a', Ref: 39
+Pos 7 Letra: 's', Ref: 57
+Criando ponteiros a partir de 's'
+Criados 65 ponteiros
+Criado node para 's'
+        inseridos 8 de 8. Letra s Ocorrencias: 1
+insere retornou 0
+    amarelo
+insere('amarelo') len = 7
+Pos 0 Letra: 'a', Ref: 39
+Pos 1 Letra: 'm', Ref: 51
+Pos 2 Letra: 'a', Ref: 39
+Pos 3 Letra: 'r', Ref: 56
+Pos 4 Letra: 'e', Ref: 43
+Pos 5 Letra: 'l', Ref: 50
+Pos 6 Letra: 'o', Ref: 53
+Criado node para 'o'
+        inseridos 7 de 7. Letra o Ocorrencias: 1
+insere retornou 0
+    amarelos
+insere('amarelos') len = 8
+Pos 0 Letra: 'a', Ref: 39
+Pos 1 Letra: 'm', Ref: 51
+Pos 2 Letra: 'a', Ref: 39
+Pos 3 Letra: 'r', Ref: 56
+Pos 4 Letra: 'e', Ref: 43
+Pos 5 Letra: 'l', Ref: 50
+Pos 6 Letra: 'o', Ref: 53
+Pos 7 Letra: 's', Ref: 57
+Criando ponteiros a partir de 's'
+Criados 65 ponteiros
+Criado node para 's'
+        inseridos 8 de 8. Letra s Ocorrencias: 1
+insere retornou 0
+
+C:\Users\toninho\source\repos\ch-200614-trie\Debug\ch-200614-trie.exe (process 10160) exited with code 0.
+Press any key to close this window . . .
